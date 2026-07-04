@@ -10,8 +10,6 @@ This project demonstrates an end-to-end Invoice Analytics solution using Excel, 
 - Build interactive Power BI dashboards.
 - Generate meaningful business insights.
 
----
-
 ## Technologies Used
 
 - Microsoft Excel
@@ -23,8 +21,6 @@ This project demonstrates an end-to-end Invoice Analytics solution using Excel, 
 - Power BI
 - DAX
 
----
-
 ## Project Structure
 
 Invoice-Analytics-Project
@@ -35,7 +31,6 @@ Invoice-Analytics-Project
 ├── Python
 ├── PowerBI
 ├── Documentation
-├── Screenshots
 └── README.md
 
 ## Database Design
@@ -46,7 +41,6 @@ The project contains two relational tables:
 - Line_Items_Data
 
 Relationship:
-
 Header_Data (1) → Line_Items_Data (*)
 
 ## Power BI Dashboards
